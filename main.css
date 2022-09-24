@@ -1,0 +1,20 @@
+.box{
+    width: 1000px;
+    height: 1000px;
+
+    
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.box2{
+    background-image: url(https://i.pinimg.com/564x/e6/c0/ba/e6c0ba2042e46628276fffc6d4eb26d6.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(45deg , rgba(red),rgba(blue),
+    url(https://i.pinimg.com/564x/e6/c0/ba/e6c0ba2042e46628276fffc6d4eb26d6.jpg);
+
+    
+}
